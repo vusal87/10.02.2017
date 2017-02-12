@@ -1,0 +1,17 @@
+asan istifade 
+sublime text3 de acilan sehifede ctrl+k+b sixmaqla birbawa lazim olan fayli acmaq mumkundur
+ctrl+p istediyin fayli tapmag ucundur
+Gorunuwden pencereleri coxaltmaq alt+shift+2,3,4 vs
+
+
+
+Create Public Gist	                  Ctrl+K ve Ctrl+I	
+Create Private Gist	                  Ctrl+K ve Ctrl+P	
+Update File(fayl yenileme)	          Ctrl+K ve Ctrl+S	
+Open File	     (fayl acma)          Ctrl+K ve Ctrl+O	
+Insert File	   (fayl elave etme)      Ctrl+K ve Ctrl+[	
+Add File	(fayl elave etme)         Ctrl+K ve Ctrl+]
+
+ctrl + shift + f AND alt + enter: Find a word in your files and then select them all
+
+ctrl + click: Every place you click will create a cursor to edit

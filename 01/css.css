@@ -1,0 +1,28 @@
+body{
+	background: #eee;
+
+
+}
+.container{
+	text-align: right;
+}
+
+
+
+.controlPanel{
+
+	text-align: center;
+	text-decoration: none;
+	font-size: 20px;
+	margin-left: 30px;
+
+
+}
+.left{
+	text-align: left;
+	height: 50px;
+
+}
+.slider1{
+	 border: solid 1px;height: 10px;width: 50px;
+}
